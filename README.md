@@ -1,2 +1,2 @@
 # studentbio1
-This is my REAL student bio.
+Pay no attention to this bio, it was practice :)
